@@ -3,9 +3,13 @@
 Vida, Colete, Stamina, Hora, Fps
 
 Vida : [] Conforme o personagem vai perdendo vida ira atualizar na hud.
+
 Colete : [] Conforme o personagem estiver levando tiro ou tomando dano ira atualizar na hud.
+
 Stamina : [] Conforme o personagem estiver correndo ele tera uma stamina que ira atualizar quando ele estiver correndo e perdendo stamina.
+
 Hora : [] Conforme o horario mudar irar atualizar na hud.
+
 Fps : [] Conforme os frames tiver ira aparecer na hud.
 
 Algo:
